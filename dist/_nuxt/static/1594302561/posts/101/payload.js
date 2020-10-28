@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/posts/101", {data:[{}],fetch:[{_error:{name:"HTTPError",response:{size:0,timeout:0,text:{},json:{},data:{}},statusCode:404,message:"Not Found"}}],mutations:void 0});

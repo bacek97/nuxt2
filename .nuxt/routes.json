@@ -1,0 +1,23 @@
+[
+  {
+    "name": "posts-id",
+    "path": "/posts/:id?",
+    "component": "C:\\\\nuxt1\\\\pages\\\\posts\\\\_id.vue",
+    "chunkName": "pages/posts/_id",
+    "_name": "_3a381d3c"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\nuxt1\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_11745887"
+  },
+  {
+    "name": "lang",
+    "path": "/:lang",
+    "component": "C:\\\\nuxt1\\\\pages\\\\_lang\\\\index.vue",
+    "chunkName": "pages/_lang/index",
+    "_name": "_0c560940"
+  }
+]

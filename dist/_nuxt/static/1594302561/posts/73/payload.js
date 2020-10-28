@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/posts/73", {data:[{}],fetch:[{post:{userId:8,id:73,title:"consequuntur deleniti eos quia temporibus ab aliquid at",body:"voluptatem cumque tenetur consequatur expedita ipsum nemo quia explicabo\naut eum minima consequatur\ntempore cumque quae est et\net in consequuntur voluptatem voluptates aut"}}],mutations:void 0});
